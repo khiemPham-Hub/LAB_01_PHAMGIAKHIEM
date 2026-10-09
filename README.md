@@ -18,7 +18,7 @@ A starter repository for the CSC10014 Smart Virtual Assistant project.
 
 
 
-1. Clone the repository: git clone https://github.com/Pgkhiem31/Lab01\_Pgkhiem31.git
+1. Clone the repository: git clone https://github.com/<you>/you.git
 2. Navigate to the project directory:  cd Lab01\_Pgkhiem31
 3. Create a virtual environment:  python -m venv .venv
 4. Activate the virtual environment on Windows CMD:  .venv\\Scripts\\activate.bat
@@ -43,25 +43,25 @@ python -m pytest -q
 
 ## Project structure
 
-Lab01\_Pgkhiem31/ 
+Lab01\_Pgkhiem31/
 
-├── src/ 
+├── src/
 
-│   └── assistant/ 
+│   └── assistant/
 
-├── tests/ 
+├── tests/
 
-├── scripts/ 
+├── scripts/
 
-│   └── check\_env.py 
+│   └── check\_env.py
 
-├── data/ 
+├── data/
 
-├── requirements.txt 
+├── requirements.txt
 
-├── pyproject.toml 
+├── pyproject.toml
 
-├── README.md 
+├── README.md
 
 └── .gitignore
 
